@@ -1,4 +1,6 @@
 <p align="center"><img width=75% src="https://github.com/AranBorkum/Bitches_and_hoes_money/blob/master/dollar.png"></p>
+[![Latest Github release](https://img.shields.io/github/release/Martinsos/edlib.svg)](https://github.com/Martinsos/edlib/releases/latest)
+
 [![python](https://img.shields.io/badge/python-2.7.1-brightgreen.svg) 
 [![Dependencies](https://img.shields.io/badge/dependencies-standard-brightgreen.svg)  
 [![issues](https://img.shields.io/badge/issues-lack_of_money-orange.svg) 
