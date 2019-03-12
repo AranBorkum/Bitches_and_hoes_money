@@ -8,8 +8,6 @@
 # Hey you! Yeah, you in the corner. Do you want to make more money?
 # Well fuck you, Eric and Aran are going to make money instead
 
-[here](http://github.com)
-
 ## Install process
   - Navigate to the awesome github page
   - Alternatively you can follow [this](https://github.com/AranBorkum/Bitches_and_hoes_money) link
