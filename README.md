@@ -10,7 +10,7 @@
 
 ## Install process
   - Navigate to the awesome github page
-  - Alternatively you can follow [this](https://github.com/AranBorkum/Bitches_and_hoes_money) link
+  - Alternatively you can follow [this](https://github.com/AranBorkum/MCMoney-Maker) link
   - Now you can follow the instructions below
 ```
 cd /repository/of/choice/
@@ -21,7 +21,7 @@ git clone git@github.com:AranBorkum/Bitches_and_hoes_money.git
 ## Eric, for the initial setup please follow the following procedure
 ```bash
 cd ~/Desktop
-git clone git@github.com:AranBorkum/Bitches_and_hoes_money.git
+git clone git@github.com:AranBorkum/MCMoney-Maker.git
 cd /Bitches_and_hoes_money
 # Drag the code that you have made into the new folder
 git status                              # This will show you what is going to be added
@@ -31,3 +31,5 @@ git push                                # Sends it to the github site
 
 sendmail anb28@sussex.ac.uk < email.txt # sends me an email to let me know what's happening
 ```
+
+## Collaborators
