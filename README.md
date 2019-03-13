@@ -34,5 +34,16 @@ sendmail anb28@sussex.ac.uk < email.txt # sends me an email to let me know what'
 
 ## Collaborators
 
-<p align="right"><img width=100 src="https://github.com/AranBorkum/MCMoney-Maker/blob/master/Aran.png"></p>
-<p align="right"><img width=100 src="https://github.com/AranBorkum/MCMoney-Maker/blob/master/Eric.png"></p>
+<p align="left"><img width=70 src="https://github.com/AranBorkum/MCMoney-Maker/blob/master/Aran.png"></p>
+Email: aranborkum@hotmail.com
+Description: 
+  - PhD Student
+  - Software engineer (Python, C++, others)
+  - Possibly the world's sexiest man
+
+<p align="left"><img width=70 src="https://github.com/AranBorkum/MCMoney-Maker/blob/master/Eric.png"></p>
+Email: <please complete>
+Description:
+  - Professor of Physics at Bryn Athyn Univeristy
+  - PhD Student starting 2019
+  - Definitely the world's most verile man
