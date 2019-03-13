@@ -14,7 +14,7 @@
   - Now you can follow the instructions below
 ```
 cd /repository/of/choice/
-git clone git@github.com:AranBorkum/Bitches_and_hoes_money.git
+git clone git@github.com:AranBorkum/MCMoney-Maker.git
 ```
 
 
