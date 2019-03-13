@@ -33,5 +33,6 @@ sendmail anb28@sussex.ac.uk < email.txt # sends me an email to let me know what'
 ```
 
 ## Collaborators
-![Aran](https://github.com/AranBorkum/MCMoney-Maker/blob/master/Aran.png)
-![Eric](https://github.com/AranBorkum/MCMoney-Maker/blob/master/Eric.png)
+
+<p align="right"><img width=100 src="https://github.com/AranBorkum/MCMoney-Maker/blob/master/Aran.png"></p>
+<p align="right"><img width=100 src="https://github.com/AranBorkum/MCMoney-Maker/blob/master/Eric.png"></p>
