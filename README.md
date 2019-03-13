@@ -16,3 +16,18 @@
 cd /repository/of/choice/
 git clone git@github.com:AranBorkum/Bitches_and_hoes_money.git
 ```
+
+
+## Eric, for the initial setup please follow the following procedure
+```bash
+cd ~/Desktop
+git clone git@github.com:AranBorkum/Bitches_and_hoes_money.git
+cd /Bitches_and_hoes_money
+# Drag the code that you have made into the new folder
+git status                              # This will show you what is going to be added
+git add *                               # Adds everything the previous step has shown you
+git commit -m "initial commit"          # Commits the changes you've made
+git push                                # Sends it to the github site
+
+sendmail anb28@sussex.ac.uk < email.txt # sends me an email to let me know what's happening
+```
