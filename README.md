@@ -33,14 +33,15 @@ sendmail anb28@sussex.ac.uk < email.txt # sends me an email to let me know what'
 ```
 
 ## Collaborators
-
+### Aran Borkum
 <p align="left"><img width=70 src="https://github.com/AranBorkum/MCMoney-Maker/blob/master/Aran.png"></p>
-Email: aranborkum@hotmail.com
-Description: 
-  - PhD Student
-  - Software engineer (Python, C++, others)
-  - Possibly the world's sexiest man
+ Email: aranborkum@hotmail.com
+ Description:
+- PhD Student
+- Software engineer (Python, C++, others)
+- Possibly the world's sexiest man
 
+### Eric van der Merwe
 <p align="left"><img width=70 src="https://github.com/AranBorkum/MCMoney-Maker/blob/master/Eric.png"></p>
 Email: <please complete>
 Description:
