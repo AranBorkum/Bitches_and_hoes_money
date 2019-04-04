@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/aranborkum/General/MCMoney-Maker/MCCPP/source/MakeMoney.cxx
+iostream
+-
+MakeMoney.hxx
+/Users/aranborkum/General/MCMoney-Maker/MCCPP/source/MakeMoney.hxx
+
+/Users/aranborkum/General/MCMoney-Maker/MCCPP/source/MakeMoney.hxx
+iostream
+-
+string
+-
+
