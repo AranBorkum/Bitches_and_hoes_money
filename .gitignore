@@ -1,0 +1,4 @@
+# Types of files to simply ignore in the git process
+*.png
+*.jpg
+*.csv

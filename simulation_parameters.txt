@@ -1,0 +1,12 @@
+Starting Capital: 50000.0
+Yearly contribution: 0.0
+Average House Price: 160000.0
+Average House Valuation: 200000.0
+Mortgage Term: 15
+Interest Rate: 0.06
+Investment Period: 30
+Maintenance Fund Goal: 100000.0
+Monthly Landlords Insurance Contribution: 20
+Monthly Rental Insurance Contribution: 5
+Monthly Maintenance Fund Contribution: 100
+Monthly Management Fees: 100
