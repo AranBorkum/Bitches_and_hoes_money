@@ -63,12 +63,12 @@ public:
 };
 
 std::ostream& operator<<(std::ostream& os, House h){
-  os << "Initial Price of the house:      " << h.GetPriceOfHouse        () << "\n"
-     << "Length of the agreed morgage:    " << h.GetLengthOfMorgage     () << "\n"
+  os << "Initial Price of the house     : " << h.GetPriceOfHouse        () << "\n"
+     << "Length of the agreed morgage   : " << h.GetLengthOfMorgage     () << "\n"
      << "Agreed interest rate on morgage: " << h.GetIntrestRateOnMorgage() << "\n"
      << "Features of the house"                                            << "\n"
-     << "Style of the house:              " << h.GetTypeOfHouse         () << "\n"     
-     << "Number of bedrooms:              " << h.GetNumberOfBedrooms    () << "\n"
-     << "Number of bathrooms:             " << h.GetNumberOfBathrooms   () << "\n";
+     << "Style of the house             : " << h.GetTypeOfHouse         () << "\n"     
+     << "Number of bedrooms             : " << h.GetNumberOfBedrooms    () << "\n"
+     << "Number of bathrooms            : " << h.GetNumberOfBathrooms   () << "\n";
     return os;
 }

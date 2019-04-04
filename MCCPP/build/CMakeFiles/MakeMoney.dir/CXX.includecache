@@ -9,6 +9,8 @@
 /Users/aranborkum/General/MCMoney-Maker/MCCPP/source/MakeMoney.cxx
 iostream
 -
+string
+-
 MakeMoney.hxx
 /Users/aranborkum/General/MCMoney-Maker/MCCPP/source/MakeMoney.hxx
 
