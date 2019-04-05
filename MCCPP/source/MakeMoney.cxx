@@ -1,6 +1,8 @@
 #include <iostream>
 #include <string>
+#include <vector>
 #include "MakeMoney.hxx"
+#include "Overlord.hxx"
 
 // Here would be a good place to define the starting variables
 // These will be global variables and will not be changed.
@@ -26,8 +28,33 @@ House InitiateProperty() {
   return Property;
 }
 
+Overlord InitiateOverlord() {
+
+  double wealth  = 100000;
+  double capital = 50000 ;
+  double nProp   = 0     ;
+  std::vector<std::string> labels;
+  
+  std::string condo = "Condo";
+  std::string house = "House";
+
+  labels.push_back(house);
+  labels.push_back(house);
+  labels.push_back(house);
+  labels.push_back(condo);
+  labels.push_back(condo);
+  nProp = labels.size();
+  
+  Overlord Aran = Overlord(wealth,
+			   capital,
+			   nProp,
+			   labels);
+  return Aran;
+}
+
 int main() {
 
+  std::cout << InitiateOverlord() << std::endl;
   std::cout << InitiateProperty() << std::endl;
   return 0;
   
