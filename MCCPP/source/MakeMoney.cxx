@@ -1,4 +1,5 @@
 #include <iostream>
+#include <fstream>
 #include <string>
 #include <vector>
 #include "MakeMoney.hxx"
@@ -7,8 +8,6 @@
 // Here would be a good place to define the starting variables
 // These will be global variables and will not be changed.
 // These can be considered to be the input parameters for the test
-
-
 
 House InitiateProperty() {
 
@@ -52,9 +51,19 @@ Overlord InitiateOverlord() {
   return Aran;
 }
 
+void SaveOverlordData() {
+
+  std::ofstream OutputFile;
+  OutputFile.open("OverlordData.txt");
+  OutputFile << InitiateOverlord() << std::endl;
+  OutputFile.close();
+  
+}
+
+
 int main() {
 
-  std::cout << InitiateOverlord() << std::endl;
+  SaveOverlordData();
   std::cout << InitiateProperty() << std::endl;
   return 0;
   

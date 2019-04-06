@@ -1,0 +1,9 @@
+Personal Wealth :	100000
+Starting Capital:	50000
+Properties Owned:	5
+Property Type   :	House
+Property Type   :	House
+Property Type   :	House
+Property Type   :	Condo
+Property Type   :	Condo
+

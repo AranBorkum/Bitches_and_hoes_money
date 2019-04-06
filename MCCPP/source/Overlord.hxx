@@ -1,4 +1,5 @@
 #include <iostream>
+#include <fstream>
 #include <vector>
 #include <string>
 
@@ -16,7 +17,7 @@ private:
   double fNPropertiesOwned;
 
   std::vector<std::string> fPropertyLabels;
-  
+
 public:
 
   // Outline for the basic constructor. I think this should only really be made once
@@ -43,18 +44,14 @@ public:
   void SetPropertyLabels  (std::string n) {fPropertyLabels.push_back(n);}
 
   // Definition of a print overloader
-  friend std::ostream& operator<<(std::ostream& os, House h);
-
-
-  
+  friend std::ostream& operator<<(std::ostream& os, Overlord o);
+ 
 };
 
 std::ostream& operator<<(std::ostream& os, Overlord o){
   os << "Personal Wealth :\t" << o.GetPersonalWealth  () << "\n"
      << "Starting Capital:\t" << o.GetStartingCapital () << "\n"
      << "Properties Owned:\t" << o.GetNPropertiesOwned() << "\n";
-    for (int i=0; i<o.GetPropertyLabels().size(); ++i) {
-      os << "Property Type   :\t" << o.GetPropertyLabels()[i] << "\n";
-    }
+  for (int i=0; i<o.GetPropertyLabels().size(); ++i) { os << "Property Type   :\t" << o.GetPropertyLabels()[i] << "\n"; }
   return os;
 }

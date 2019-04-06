@@ -9,6 +9,8 @@
 /Users/aranborkum/General/MCMoney-Maker/MCCPP/source/MakeMoney.cxx
 iostream
 -
+fstream
+-
 string
 -
 vector
@@ -26,6 +28,8 @@ string
 
 /Users/aranborkum/General/MCMoney-Maker/MCCPP/source/Overlord.hxx
 iostream
+-
+fstream
 -
 vector
 -
